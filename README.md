@@ -1,4 +1,8 @@
 # `stm32f1xx-hal`
+########################################
+cargo flash --example pwm --features stm32f103,medium --chip STM32F103C8
+
+########################################
 
 > [HAL] for the STM32F1 family of microcontrollers
 
